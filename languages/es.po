@@ -1,0 +1,110 @@
+# Copyright (C) 2016 Salome Pereyra
+# This file is distributed under the GPL-3.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis Custom Title Area 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/genesis-custom-"
+"title-area\n"
+"POT-Creation-Date: 2016-03-25 22:39-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-03-25 23:03-0300\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: genesis-custom-title-area.php:127
+msgid ""
+"This plugin requires that you have installed the %1$sGenesis Framework "
+"version %2$s%3$s or greater."
+msgstr ""
+"Este plugin requiere que se encuentre instalada la versión de  %1$sGenesis "
+"Framework%2$s %3$s o superior ."
+
+#: genesis-custom-title-area.php:135
+msgid ""
+"You need to update to the latest version of the %1$sGenesis Framework "
+"version %2$s%3$s or greater to install this plugin."
+msgstr ""
+"Necesita actualizar la versión de %1$sGenesis Framework%2$s a %3$s o "
+"superior para instalar este plugin."
+
+#: genesis-custom-title-area.php:163
+msgid ""
+"Sorry, Genesis Custom Title Area works only with the Genesis Framework. It "
+"has been deactivated."
+msgstr ""
+"Lo sentimos, el plugin Genesis Custom Title Area solo funciona con Genesis "
+"Framework. El plugin se ha desactivado."
+
+#: genesis-custom-title-area.php:167
+msgid ""
+" But since we're talking anyway, did you know that your server is running "
+"PHP version %1$s, which is outdated? You should ask your host to update that "
+"for you."
+msgstr ""
+"¿Sabe usted que su servidor esta ejecutando la versión %1$s de PHP? "
+"Actualmente se encuentran disponibles nuevas versiones, por favor solicite a "
+"su webhosting que la actualice por usted."
+
+#: genesis-custom-title-area.php:199
+msgid "Custom Title Area"
+msgstr "Personalizar el área del Titulo"
+
+#: genesis-custom-title-area.php:208
+msgid "Enable custom clases:"
+msgstr "Habilitar clases personalizadas"
+
+#: genesis-custom-title-area.php:211
+msgid "Select your choose"
+msgstr "Seleccione alguna opción"
+
+#: genesis-custom-title-area.php:214
+msgid "Add a custom class to each word in the site-title"
+msgstr "Añadir un clase personalizada en cada palabra del Titulo (site-title)"
+
+#: genesis-custom-title-area.php:216
+msgid ""
+"Example: <strong>site-title:</strong> \"Genesis Framework\" to each word a "
+"class \"custom-title-Genesis\" and \"custom-title-Framework\">"
+msgstr ""
+"Ejemplo: <strong>site-title:</strong> \"Genesis Framework\" a cada palabra "
+"le agregará las siguientes clases  \"custom-title-Genesis\" and \"custom-"
+"title-Framework\""
+
+#: genesis-custom-title-area.php:219
+msgid "Add a custom class to each word in the site-description"
+msgstr ""
+"Añadir una clase personalizada a cada palabra en la descripción del sitio"
+
+#: genesis-custom-title-area.php:221
+msgid ""
+"Example: <strong>site-description:</strong> \"It's Great\" to each word a "
+"class \"custom-desc-Its\" and \"custom-desc-Great\">"
+msgstr ""
+"Ejemplo: <strong>site-description:</strong> \"It's Great\" a cada palabra le "
+"agregará las siguientes clases \"custom-desc-Its\" y \"custom-desc-Great\""
+
+#. Plugin Name of the plugin/theme
+msgid "Genesis Custom Title Area"
+msgstr "Personalizar el área del título "
+
+#. Author URI of the plugin/theme
+msgid "http://www.salomepereyra.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add custom classes to site-title and site-description in your Genesis Child "
+"Theme. Must be using the Genesis Framework."
+msgstr ""
+"Añadir clases personalizadas en la sección del título y la descripción del "
+"sitio en el tema hijo de Genesis. Se debe utilizar el Genesis Framework para "
+"que funcione el plugin."
+
+#. Author of the plugin/theme
+msgid "Salome Pereyra"
+msgstr ""
