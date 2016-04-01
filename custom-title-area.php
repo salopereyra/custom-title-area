@@ -12,7 +12,7 @@
  * Plugin Name:       Genesis Custom Title Area
  * Plugin URI:        http://www.salomepereyra.com
  * Description:       Add custom classes to site-title and site-description in your Genesis Child Theme. Must be using the Genesis Framework.
- * Version:           0.1
+ * Version:           1.0
  * Author:            Salome Pereyra
  * Author URI:        http://www.salomepereyra.com
  * License:           GPL-3.0+
